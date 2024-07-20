@@ -505,6 +505,12 @@
 				<Texture name="EngInventory_frame_SlotTarget_13_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
 				<Texture name="EngInventory_frame_SlotTarget_14_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
 				<Texture name="EngInventory_frame_SlotTarget_15_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
+				<Texture name="EngInventory_frame_SlotTarget_16_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
+				<Texture name="EngInventory_frame_SlotTarget_17_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
+				<Texture name="EngInventory_frame_SlotTarget_18_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
+				<Texture name="EngInventory_frame_SlotTarget_19_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
+				<Texture name="EngInventory_frame_SlotTarget_20_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
+				<Texture name="EngInventory_frame_SlotTarget_21_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
 			</Layer>
 		</Layers>
 
@@ -753,6 +759,14 @@
 			<Frame name="EngInventory_frame_bar_14" inherits="EngInventory_frame_bar_Template"/> 
 			<Frame name="EngInventory_frame_bar_15" inherits="EngInventory_frame_bar_Template"/>
 
+			<Frame name="EngInventory_frame_bar_16" inherits="EngInventory_frame_bar_Template"/> 
+			<Frame name="EngInventory_frame_bar_17" inherits="EngInventory_frame_bar_Template"/> 
+			<Frame name="EngInventory_frame_bar_18" inherits="EngInventory_frame_bar_Template"/>
+
+			<Frame name="EngInventory_frame_bar_19" inherits="EngInventory_frame_bar_Template"/> 
+			<Frame name="EngInventory_frame_bar_20" inherits="EngInventory_frame_bar_Template"/> 
+			<Frame name="EngInventory_frame_bar_21" inherits="EngInventory_frame_bar_Template"/>
+
 			<Button name="EngInventory_frame_SlotTarget_1" inherits="EngInventory_SlotTargetTemplate"/>
 			<Button name="EngInventory_frame_SlotTarget_2" inherits="EngInventory_SlotTargetTemplate"/>
 			<Button name="EngInventory_frame_SlotTarget_3" inherits="EngInventory_SlotTargetTemplate"/>
@@ -768,6 +782,12 @@
 			<Button name="EngInventory_frame_SlotTarget_13" inherits="EngInventory_SlotTargetTemplate"/>
 			<Button name="EngInventory_frame_SlotTarget_14" inherits="EngInventory_SlotTargetTemplate"/>
 			<Button name="EngInventory_frame_SlotTarget_15" inherits="EngInventory_SlotTargetTemplate"/>
+			<Button name="EngInventory_frame_SlotTarget_16" inherits="EngInventory_SlotTargetTemplate"/>
+			<Button name="EngInventory_frame_SlotTarget_17" inherits="EngInventory_SlotTargetTemplate"/>
+			<Button name="EngInventory_frame_SlotTarget_18" inherits="EngInventory_SlotTargetTemplate"/>
+			<Button name="EngInventory_frame_SlotTarget_19" inherits="EngInventory_SlotTargetTemplate"/>
+			<Button name="EngInventory_frame_SlotTarget_20" inherits="EngInventory_SlotTargetTemplate"/>
+			<Button name="EngInventory_frame_SlotTarget_21" inherits="EngInventory_SlotTargetTemplate"/>
 
 			<Button name="EngInventory_frame_Item_1" inherits="EngInventory_ItemButtonTemplate"/>
 			<Button name="EngInventory_frame_Item_2" inherits="EngInventory_ItemButtonTemplate"/>

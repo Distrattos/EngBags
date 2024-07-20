@@ -661,11 +661,18 @@ function EngBank_SetDefaultValues(re)
 	EngBank_SetClassBars();
 
         -- default slot locations for items
+		EBank_SetDefault("putinslot--CUSTOM_12", 21, 1+re, EngBags_NumericRange, 1, EngBags_MAX_BARS);
+		EBank_SetDefault("putinslot--CUSTOM_11", 20, 1+re, EngBags_NumericRange, 1, EngBags_MAX_BARS);
+		EBank_SetDefault("putinslot--CUSTOM_10", 19, 1+re, EngBags_NumericRange, 1, EngBags_MAX_BARS);
+		EBank_SetDefault("putinslot--CUSTOM_09", 18, 1+re, EngBags_NumericRange, 1, EngBags_MAX_BARS);
+		EBank_SetDefault("putinslot--CUSTOM_08", 17, 1+re, EngBags_NumericRange, 1, EngBags_MAX_BARS);
+		EBank_SetDefault("putinslot--CUSTOM_07", 16, 1+re, EngBags_NumericRange, 1, EngBags_MAX_BARS);
+
 	EBank_SetDefault("putinslot--CLASS_ITEMS1", 15, 1+re, EngBags_NumericRange, 1, EngBags_MAX_BARS);
         EBank_SetDefault("putinslot--EMPTY_PROJECTILE_SLOTS", 15, 1+re, EngBags_NumericRange, 1, EngBags_MAX_BARS);
         EBank_SetDefault("putinslot--USED_PROJECTILE_SLOTS", 15, 1+re, EngBags_NumericRange, 1, EngBags_MAX_BARS);
         EBank_SetDefault("putinslot--PROJECTILE", 14, 1+re, EngBags_NumericRange, 1, EngBags_MAX_BARS);          -- arrows and bullets that AREN'T in your shot bags
-        EBank_SetDefault("putinslot--EMPTY_SLOTS", 13, 1+re, EngBags_NumericRange, 1, EngBags_MAX_BARS);         -- Empty slots go in this bar
+        EBank_SetDefault("putinslot--EMPTY_SLOTS", 19, 1+re, EngBags_NumericRange, 1, EngBags_MAX_BARS);         -- Empty slots go in this bar
         EBank_SetDefault("putinslot--GRAY_ITEMS", 13, 1+re, EngBags_NumericRange, 1, EngBags_MAX_BARS);          -- Gray items go in this bar
         --
         EBank_SetDefault("putinslot--OTHERORUNKNOWN", 12, 1+re, EngBags_NumericRange, 1, EngBags_MAX_BARS);      -- if not soulbound, but doesn't match any other catagory, it goes here

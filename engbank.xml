@@ -607,6 +607,12 @@
 				<Texture name="EngBank_frame_SlotTarget_13_bkgr" inherits="EngBank_ButtonBackgroundTemplate"/>
 				<Texture name="EngBank_frame_SlotTarget_14_bkgr" inherits="EngBank_ButtonBackgroundTemplate"/>
 				<Texture name="EngBank_frame_SlotTarget_15_bkgr" inherits="EngBank_ButtonBackgroundTemplate"/>
+				<Texture name="EngBank_frame_SlotTarget_16_bkgr" inherits="EngBank_ButtonBackgroundTemplate"/>
+				<Texture name="EngBank_frame_SlotTarget_17_bkgr" inherits="EngBank_ButtonBackgroundTemplate"/>
+				<Texture name="EngBank_frame_SlotTarget_18_bkgr" inherits="EngBank_ButtonBackgroundTemplate"/>
+				<Texture name="EngBank_frame_SlotTarget_19_bkgr" inherits="EngBank_ButtonBackgroundTemplate"/>
+				<Texture name="EngBank_frame_SlotTarget_20_bkgr" inherits="EngBank_ButtonBackgroundTemplate"/>
+				<Texture name="EngBank_frame_SlotTarget_21_bkgr" inherits="EngBank_ButtonBackgroundTemplate"/>
 			</Layer>
 		</Layers>
 
@@ -920,6 +926,14 @@
 			<Frame name="EngBank_frame_bar_14" inherits="EngBank_frame_bar_Template"/> 
 			<Frame name="EngBank_frame_bar_15" inherits="EngBank_frame_bar_Template"/>
 
+			<Frame name="EngBank_frame_bar_16" inherits="EngBank_frame_bar_Template"/> 
+			<Frame name="EngBank_frame_bar_17" inherits="EngBank_frame_bar_Template"/> 
+			<Frame name="EngBank_frame_bar_18" inherits="EngBank_frame_bar_Template"/>
+
+			<Frame name="EngBank_frame_bar_19" inherits="EngBank_frame_bar_Template"/> 
+			<Frame name="EngBank_frame_bar_20" inherits="EngBank_frame_bar_Template"/> 
+			<Frame name="EngBank_frame_bar_21" inherits="EngBank_frame_bar_Template"/>
+
 			<Button name="EngBank_frame_SlotTarget_1" inherits="EngBank_SlotTargetTemplate"/>
 			<Button name="EngBank_frame_SlotTarget_2" inherits="EngBank_SlotTargetTemplate"/>
 			<Button name="EngBank_frame_SlotTarget_3" inherits="EngBank_SlotTargetTemplate"/>
@@ -935,6 +949,12 @@
 			<Button name="EngBank_frame_SlotTarget_13" inherits="EngBank_SlotTargetTemplate"/>
 			<Button name="EngBank_frame_SlotTarget_14" inherits="EngBank_SlotTargetTemplate"/>
 			<Button name="EngBank_frame_SlotTarget_15" inherits="EngBank_SlotTargetTemplate"/>
+			<Button name="EngBank_frame_SlotTarget_16" inherits="EngBank_SlotTargetTemplate"/>
+			<Button name="EngBank_frame_SlotTarget_17" inherits="EngBank_SlotTargetTemplate"/>
+			<Button name="EngBank_frame_SlotTarget_18" inherits="EngBank_SlotTargetTemplate"/>
+			<Button name="EngBank_frame_SlotTarget_19" inherits="EngBank_SlotTargetTemplate"/>
+			<Button name="EngBank_frame_SlotTarget_20" inherits="EngBank_SlotTargetTemplate"/>
+			<Button name="EngBank_frame_SlotTarget_21" inherits="EngBank_SlotTargetTemplate"/>
 
 			<Button name="EngBank_frame_Item_1" inherits="EngBank_ItemButtonTemplate"/>
 			<Button name="EngBank_frame_Item_2" inherits="EngBank_ItemButtonTemplate"/>
